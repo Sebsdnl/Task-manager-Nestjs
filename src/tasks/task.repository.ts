@@ -1,3 +1,3 @@
-import { EntityRepository } from "typeorm";
+import { Repository } from "typeorm";
 
-@EntityRepository
+Repository.extend
